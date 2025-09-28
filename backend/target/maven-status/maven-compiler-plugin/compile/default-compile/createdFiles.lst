@@ -1,0 +1,6 @@
+com\example\scheduler\SchedulerApplication.class
+com\example\scheduler\service\PostService.class
+StaticResourceConfig.class
+com\example\scheduler\entity\Post.class
+com\example\scheduler\repository\PostRepository.class
+com\example\scheduler\controller\PostController.class
