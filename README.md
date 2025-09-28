@@ -21,14 +21,12 @@ A full-stack web app to schedule, edit, delete, and auto-publish posts with imag
    git clone https://github.com/WasanaKarunasena/social-media-scheduler.git
 Set up backend:
 
-bash
-Copy code
+
 cd backend
 ./mvnw spring-boot:run
 Set up frontend:
 
-bash
-Copy code
+
 cd frontend
 npm install
 npm run dev
